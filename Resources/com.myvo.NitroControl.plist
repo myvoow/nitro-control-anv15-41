@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>                  <string>com.myvo.NitroControl</string>
+  <!-- Opens the app hidden at login: it is the live client that keeps the saved fan setting applied. -->
+  <key>ProgramArguments</key>       <array><string>/usr/bin/open</string><string>-g</string><string>-j</string><string>-a</string><string>/Applications/NitroControl.app</string></array>
+  <key>RunAtLoad</key>              <true/>
+  <key>LimitLoadToSessionType</key> <string>Aqua</string>
+</dict>
+</plist>
