@@ -4,7 +4,7 @@ Fan and performance-mode control for the Acer Nitro V 15 ANV15-41 running macOS 
 
 *Version française [plus bas](#version-française).*
 
-![Nitro Control](docs/screenshot.png)
+![Nitro Control](docs/screenshot-2.png)
 
 The app shows CPU, GPU and system temperatures, both fan speeds, and processor frequency and power. You pick a fan mode (Auto, Max, or custom speeds, plus a CoolBoost curve) and the firmware operating mode (Quiet, Normal, Performance, Eco). A menu bar icon shows the highest temperature and gives one-click access to the same settings.
 
