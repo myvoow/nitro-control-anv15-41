@@ -127,6 +127,8 @@ Personal project, not affiliated with Acer. Use at your own risk: a fan control 
 
 Contrôle des ventilateurs et des modes de performance de l'Acer Nitro V 15 ANV15-41 sous macOS (Hackintosh), pour remplacer NitroSense, qui n'existe que sous Windows.
 
+![Nitro Control](docs/screenshot-2.png)
+
 L'app affiche les températures CPU, GPU et système, la vitesse des deux ventilateurs, la fréquence et la puissance du processeur. Elle permet de choisir le mode de ventilation (Auto, Max ou vitesses personnalisées, plus une courbe CoolBoost) et le mode de fonctionnement du firmware (Silencieux, Normal, Performance, Éco). Une icône dans la barre des menus donne la température la plus haute et les mêmes réglages en un clic.
 
 ### Machine testée
