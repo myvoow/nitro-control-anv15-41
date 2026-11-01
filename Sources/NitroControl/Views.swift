@@ -84,7 +84,6 @@ struct TempTile: View {
             }
             .frame(height: 8)
         }
-        .animation(.smooth(duration: 0.8), value: value)
         .glassCard()
         .accessibilityElement(children: .ignore)
         .accessibilityLabel("Température \(title)")
@@ -120,7 +119,6 @@ struct FanGauge: View {
             Label(title, systemImage: "fanblades.fill").font(.headline).foregroundStyle(.secondary)
         }
         .frame(maxWidth: .infinity)
-        .animation(.smooth(duration: 0.9), value: rpm)
         .glassCard()
         .accessibilityElement(children: .ignore)
         .accessibilityLabel(title)
